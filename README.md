@@ -1,6 +1,5 @@
- 
 <h1 align="center">Hi 👋, I'm Farouq Ayodamola Seriki...FAS</h1>
-<h3 align="center">Im a software developer passionate about solving problems and bridging gaps a line of code at a time. I am a full stack developer working with Nodejs, React native, React, among other languages.</h3>
+<h3 align="center">I'm a software developer passionate about solving problems and bridging gaps, one line of code at a time. As a full-stack developer, I work with technologies such as Node.js, React Native, and React, among others.</h3>
 
 - 🔭 I’m currently working on **🤫🤫🤫🤫🤫**
 
