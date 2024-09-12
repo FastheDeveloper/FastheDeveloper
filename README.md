@@ -12,7 +12,8 @@
 - ⚡ Fun fact **Favorite Anime is Naruto.**
 
 <h3 align="left">Connect with me:</h3> 
-<a href="https://fasthedeveloper.hashnode.dev/" target="_blank">HashNode</a>
+<a href="https://fasthedeveloper.hashnode.dev/" >HashNode</a><br/>
+<a href="https://dev.to/fasthedeveloper" >DevTo</a>
 <p align="left">
 </p>
 
