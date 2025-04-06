@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Farouq Ayodamola Seriki...FAS</h1>
 <h3 align="center">I'm a software developer passionate about solving problems and bridging gaps, one line of code at a time. As a full-stack developer, I work with technologies such as Node.js, React Native, and React, among others.</h3>
 
-- 🔭 I’m currently working on **🤫🤫🤫🤫🤫**
+- 🔭 I’m currently working on **LegacyVault**
 
-- 🌱 I’m currently learning **too much 😬**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 👯 I’m looking to collaborate on **Mobile Applications and React Native community**
 
 - 💬 Ask me about **React Native , Expo**
 
-- ⚡ Fun fact **Favorite Anime is Naruto.**
+- ⚡ Fun fact **Favorite Artist is Eminem.**
 
 <h3 align="left">Connect with me:</h3> 
 <a href="https://fasthedeveloper.hashnode.dev/" >HashNode</a><br/>
