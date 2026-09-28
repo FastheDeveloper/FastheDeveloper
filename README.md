@@ -1,21 +1,23 @@
-<h1 align="center">Hi 👋, I'm Farouq Ayodamola Seriki...FAS</h1>
-<h3 align="center">I'm a software developer passionate about solving problems and bridging gaps, one line of code at a time. As a full-stack developer, I work with technologies such as Node.js, React Native, and React, among others.</h3>
+# Hi, I'm Farouq Seriki
 
-- 🔭 I’m currently working on **LegacyVault**
+**Senior React Native Engineer · Full-stack · Native iOS/Android**
 
-- 🌱 I’m currently learning **Ruby on Rails**
+I've spent 6+ years shipping production apps across fintech, media, hiring, marketplaces and health, and I own the work from app to API, release and production.
+I'm CTO with equity at two early-stage fintechs, I write native Swift and Kotlin when a feature needs it, and I publish on freeCodeCamp.
 
-- 👯 I’m looking to collaborate on **Mobile Applications and React Native community**
+## Proof
 
-- 💬 Ask me about **React Native , Expo**
+- **[Portfolio](https://fasthedeveloper.netlify.app):** my work, from app to API.
+- **[The React Native Live Activities Handbook](https://freecodecamp.org/news/react-native-live-activities-handbook):** a ~15,000-word handbook on freeCodeCamp.
+- **[DropTrack](https://github.com/FastheDeveloper/LiveActivity):** the handbook's MIT-licensed demo app.
+- **[OWASP Mobile Top 10 for React Native Fintech Apps](https://fasthedeveloper.netlify.app/blog/owasp-mobile-top-10-react-native-fintech):** how the OWASP Mobile Top 10 applies to React Native fintech apps.
 
-- ⚡ Fun fact **Favorite Artist is Eminem.**
+## Current focus
 
-<h3 align="left">Connect with me:</h3> 
-<a href="https://fasthedeveloper.hashnode.dev/" >HashNode</a><br/>
-<a href="https://dev.to/fasthedeveloper" >DevTo</a>
-<p align="left">
-</p>
+- Shipping React Native apps and the NestJS/Node.js APIs behind them for a film and TV social app, a hiring platform and two fintechs.
+- Release pipelines (Fastlane, GitHub Actions), payments (Stripe, Paystack, card issuing) and mobile security (SSL pinning, device attestation).
+- Open to remote roles (UTC+1) and relocation to EU/UK/Canada.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## Contact
+
+farouqseriki7@gmail.com · [LinkedIn](https://linkedin.com/in/farouqseriki)
